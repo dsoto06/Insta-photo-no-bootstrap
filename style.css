@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+}
+
+div.post {
+    background-color: white;
+    padding: 10px;
+
+}
+
+div .container{ 
+    width: 600px;
+    margin: auto;
+}
+
+div.post img{
+width: 100%;
+}
+
+
+#bookmark{
+    padding-left: 12.9cm;
+}
+
+.container .box {  
+    width: 100%;   
+    display:table; 
+}  
+.container .box .box-row {  
+    display:table-row;
+     
+}  
+.container .box .box-cell {  
+    display:table-cell; 
+    
+}  
+.container .box .box-cell.box1 {   
+    width: 30px;
+    align-items: center;
+}  
+.container .box .box-cell.box2 {  
+
+
+    
+}  
+.container .box .box-cell.box3 {  
+    width: 30px;
+}
